@@ -11,5 +11,4 @@ Start Backend:
 * cd henlo-api
 * node api.js
 
-Demo: 
-https://youtu.be/2kvILOLEEP8
+[![Google sheets CMS](https://img.youtube.com/vi/2kvILOLEEP8/0.jpg)](https://www.youtube.com/watch?v=2kvILOLEEP8) 
